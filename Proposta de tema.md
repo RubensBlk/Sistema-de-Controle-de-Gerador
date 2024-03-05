@@ -1,9 +1,9 @@
 > toda proposta de tema de projeto de PI3 deve seguir o padrão abaixo.
 
 # Proposta de Tema de PI3
-Título:
+Título: Sistema de controle do módula de tensão de saída de um gerador
 
-Aluno(s): Nome 1 e Nome 2 
+Aluno(s): Rubens Blenke Venturi
 
 Orientador: Prof. Nome
 
@@ -35,6 +35,7 @@ Clique [aqui](https://github.com/users/sergiopetrovcic/projects/8/views/1?layout
 
 # Unidades curriculares envolvidas
 > liste as unidades curriculares envolvidas com o tema escolhido
-- Disciplina 1;
-- Disciplina 2;
-- Disciplina n.
+- Sistema de controle;
+- Conversão eletromecânica de energia I;
+- Conversão eletromecânica de energia II;
+- Microcontroladores;
