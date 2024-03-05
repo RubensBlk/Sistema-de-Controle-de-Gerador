@@ -35,6 +35,7 @@ Clique [aqui](https://github.com/users/sergiopetrovcic/projects/8/views/1?layout
 
 # Unidades curriculares envolvidas
 > liste as unidades curriculares envolvidas com o tema escolhido
-- Disciplina 1;
-- Disciplina 2;
-- Disciplina n.
+- Sistema de Controle;
+- Conversão eletromecânica de Energia I;
+- Conversão eletromecânica de Energia II;
+- Microcontroladores;
