@@ -11,11 +11,11 @@ Orientador: Prof. João Paulo Camelo Cunha
 Montar uma fonte de tensão e corrente variáveis para o controle de um gerador síncrono
 
 # Objetivos específicos
-Obter os parâmetros construtivos e valores nominais de funcionamento do gerador para obter os valores necessários mínimos para a fonte.
+Aferirr os parâmetros construtivos e valores nominais de funcionamento do gerador para obter os valores necessários mínimos para a fonte.
 
 # Metodologia
-Para a definição dos parâmetros da fonte será necessário realizar testes em bancada para com o gerador síncrono com e sem carga e obter os valores mínimos que a fonte deverá fornecer.
-Após a parametrização serão dimensionado os componentes e definido o protótipo da fonte para montagem.
+Para a definição dos parâmetros da fonte será necessário realizar testes em bancada com o gerador síncrono com e sem carga e atingir os valores mínimos que a fonte deverá fornecer.
+Após a parametrização serão dimensionados os componentes e definido o protótipo da fonte para montagem.
 
 # Cronograma
 > crie um projeto no GitHub discriminando as ações e o período em que as mesmas serão realizadas
