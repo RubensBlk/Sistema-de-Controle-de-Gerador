@@ -1,20 +1,21 @@
 > toda proposta de tema de projeto de PI3 deve seguir o padrão abaixo.
 
 # Proposta de Tema de PI3
-Título: Sistema de controle do módula de tensão de saída de um gerador
+Título: Fonte de controle de excitatriz de um gerador síncrono
 
 Aluno(s): Rubens Blenke Venturi
 
-Orientador: Prof. Nome
+Orientador: Prof. João Paulo Camelo Cunha
 
 # Objetivo geral
-> o objetivo geral expressa a ação que irá definir o projeto em um sentido amplo
+Montar uma fonte de tensão e corrente variáveis para o controle de um gerador síncrono
 
 # Objetivos específicos
-> os objetivos específicos são as diferentes ações a serem tomadas durante o desenvolvimento visando concretizar o objetivo geral
+Obter os parâmetros construtivos e valores nominais de funcionamento do gerador para obter os valores necessários mínimos para a fonte.
 
 # Metodologia
-> descreva a metodologia de desenvolvimento destacando quais são as etapas
+Para a definição dos parâmetros da fonte será necessário realizar testes em bancada para com o gerador síncrono com e sem carga e obter os valores mínimos que a fonte deverá fornecer.
+Após a parametrização serão dimensionado os componentes e definido o protótipo da fonte para montagem.
 
 # Cronograma
 > crie um projeto no GitHub discriminando as ações e o período em que as mesmas serão realizadas
@@ -29,7 +30,7 @@ Clique [aqui](https://github.com/users/RubensBlk/projects/1) para acessar o cron
 
 | Item | Descrição | Unidade | Valor Unitário | Quantidade | Total |
 | ---- | ------------- | --- | ------------- | ------------- | ------------- |
-|  01  | Eletroduto rígido de 3/4" branco | barra | R$ 30,00 | 1 | R$ 30,00 |
+|  01  | Transistor BC 338| barra | R$ 30,00 | 1 | R$ 30,00 |
 |  02  | Fita isolante | rolo de 5 m | R$ 20,00 | 5 | R$ 100,00 |
 |    |  |   |  |  | **R$ 130,00** |
 
