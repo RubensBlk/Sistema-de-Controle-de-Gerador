@@ -8,7 +8,7 @@ Aluno(s): Rubens Blenke Venturi
 Orientador: Prof. João Paulo Camelo Cunha
 
 # Objetivo geral
-Montar uma fonte de tensão e corrente variáveis para o controle de um gerador síncrono
+Realizar a montagem de uma fonte de tensão e corrente variáveis para o controle de um gerador síncrono
 
 # Objetivos específicos
 Aferir os parâmetros construtivos e valores nominais de funcionamento do gerador para obter os valores necessários mínimos para a fonte.
