@@ -1,21 +1,16 @@
 # Fonte de Controle de uma excitatriz de um gerador síncrono
 Este é o repositório do projeto de uma fonte de controle para um gerador síncrono
 
-## Links interessantes
+## Objetivo geral
+Realizar a montagem de uma fonte de tensão e corrente variáveis para o controle de um gerador síncrono
 
-Plano de ensino
+## Objetivos específicos
+Aferir os parâmetros construtivos e valores nominais de funcionamento do gerador para obter os valores necessários mínimos para a fonte.
 
-[Calendário da disciplina 2023/2](https://github.com/users/sergiopetrovcic/projects/8/views/1?layout=roadmap)
+## Metodologia
+Para a definição dos parâmetros da fonte será necessário realizar testes em bancada com o gerador síncrono com e sem carga e atingir os valores mínimos que a fonte deverá fornecer.
+Após a parametrização serão dimensionados os componentes e definido o protótipo da fonte para montagem.
 
-[Modelo de proposta de tema de PI](Modelo_de_proposta_de_tema.md)
-
-[Breve tutorial sobre repositórios no GitHub](https://docs.google.com/document/d/1gCkiHKbIdB4hai8FTpDcPa5cpkDDA8oSAIwWfV4WAXk/edit?usp=sharing) (use o email institucional do IFSC para acessar).
-
-[Breve tutorial sobre README no GitHub](https://docs.google.com/document/d/1jbxmf1khuCBtVv9WBcCR1X_-tdIQqN6EicgkTKMv0Xs/edit?usp=sharing) (use o email institucional do IFSC para acessar).
-
-[Breve tutorial sobre projetos no GitHub](https://docs.google.com/document/d/1Jt-fHFy_myxtl524nTtpJCzsXl5LATjL7LW-QCEj-lk/edit?usp=sharing) (use o email institucional do IFSC para acessar).
-
-[Histórico de projetos da disciplina](Historico_da_disciplina.md)
 
 
 
