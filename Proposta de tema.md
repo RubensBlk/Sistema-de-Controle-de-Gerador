@@ -40,3 +40,5 @@ Clique [aqui](https://github.com/users/RubensBlk/projects/1) para acessar o cron
 - Conversão eletromecânica de energia I;
 - Conversão eletromecânica de energia II;
 - Microcontroladores;
+- Eletrônica I
+- Eletrônica II
