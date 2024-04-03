@@ -8,14 +8,17 @@ Aluno(s): Rubens Blenke Venturi
 Orientador: Prof. João Paulo Camelo Cunha
 
 # Objetivo geral
-Realizar a montagem de uma fonte de tensão e corrente variáveis para o controle de um gerador síncrono
+Este projeto tem como objetivo desenvolver uma fonte de alimentação linear ajustável que permita controlar tanto a tensão quanto a corrente de saída, atendendo aos requisitos mínimos para alimentar um gerador síncrono que atualmente não está em uso devido à falta de uma fonte de alimentação apropriada.
 
 # Objetivos específicos
-Aferir os parâmetros construtivos e valores nominais de funcionamento do gerador para obter os valores necessários mínimos para a fonte.
+Aferir os parâmetros construtivos e valores nominais de funcionamento do gerador para obter os valores necessários mínimos para a fonte. Dimensionar os componentes para suprir a necessidade do gerador Simulação do circuito pré teste Montagem do circuito em bancada Realizar os testes com o gerador.
 
 # Metodologia
-Para a definição dos parâmetros da fonte será necessário realizar testes em bancada com o gerador síncrono com e sem carga e atingir os valores mínimos que a fonte deverá fornecer.
-Após a parametrização serão dimensionados os componentes e definido o protótipo da fonte para montagem.
+Obtem-se os valores nominais do gerador através do manual do fabricante. 
+Após a parametrização serão dimensionados os componentes e definido o protótipo da fonte para montagem. 
+Realizar simulação com os componentes dimensionados para validação. 
+Montagem do circuito e validação. 
+Montagem do circuito no gerador.
 
 # Cronograma
 > crie um projeto no GitHub discriminando as ações e o período em que as mesmas serão realizadas
