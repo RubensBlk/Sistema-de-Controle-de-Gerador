@@ -41,7 +41,7 @@ Clique [aqui](https://github.com/users/RubensBlk/projects/1) para acessar o cron
 |    |  |   |  |  | **R$ 130,00** |
 
 # Unidades curriculares envolvidas
-> liste as unidades curriculares envolvidas com o tema escolhido
+
 - Sistema de controle;
 - Conversão eletromecânica de energia I;
 - Conversão eletromecânica de energia II;
