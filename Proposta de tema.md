@@ -39,8 +39,9 @@ Clique [aqui](https://github.com/users/RubensBlk/projects/1) para acessar o cron
 | Item | Descrição | Unidade | Valor Unitário | Quantidade | Total |
 | ---- | ------------- | --- | ------------- | ------------- | ------------- |
 |  01  | Transistor 2N2222A| Un.| R$ 3,50 | 1 | R$ 3,50 |
-|  02  | Ponte retificadora 2W005| Un. | R$ 1,50 | 1 | R$ 1,00 |
-|    |  |   |  |  | **R$ 130,00** |
+|  02  | Ponte retificadora 2W005| Un. | R$ 1,50 | 1 | R$ 1,50 |
+|  03  | Transformador 220V - 35V | Un. | 89,99 | 1 | R$ 89,99 |
+|    |  |   |  |  | **R$ 94,99** |
 
 # Unidades curriculares envolvidas
 
