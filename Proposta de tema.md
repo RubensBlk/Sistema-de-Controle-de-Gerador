@@ -12,7 +12,7 @@ Este projeto tem como objetivo desenvolver uma fonte de alimentação linear aju
 
 # Objetivos específicos
 Aferir os parâmetros construtivos e valores nominais de funcionamento do gerador para obter os valores necessários mínimos para a fonte. 
->Dimensionar os componentes para suprir a necessidade do gerador Simulação do circuito pré teste Montagem do circuito em bancada Realizar os testes com o gerador.
+Dimensionar os componentes para suprir a necessidade do gerador Simulação do circuito pré teste Montagem do circuito em bancada Realizar os testes com o gerador.
 
 # Metodologia
 Obtem-se os valores nominais do gerador através do manual do fabricante. 
