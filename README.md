@@ -2,7 +2,7 @@
 Este é o repositório do projeto de uma fonte de controle para um gerador síncrono
 
 ## Objetivo geral
-Realizar a montagem de uma fonte de tensão e corrente variáveis para o controle de um gerador síncrono
+Este projeto tem como objetivo desenvolver uma fonte de alimentação linear ajustável que permita controlar tanto a tensão quanto a corrente de saída, atendendo aos requisitos mínimos para alimentar um gerador síncrono que atualmente não está em uso devido à falta de uma fonte de alimentação apropriada.
 
 ## Objetivos específicos
 Aferir os parâmetros construtivos e valores nominais de funcionamento do gerador para obter os valores necessários mínimos para a fonte.
